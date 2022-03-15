@@ -1,0 +1,9 @@
+C:\Temp\PCS-81\2 семетр\PR05\PR05\bin\Debug\PR05.exe.config
+C:\Temp\PCS-81\2 семетр\PR05\PR05\bin\Debug\PR05.exe
+C:\Temp\PCS-81\2 семетр\PR05\PR05\bin\Debug\PR05.pdb
+C:\Temp\PCS-81\2 семетр\PR05\PR05\obj\Debug\PR05.csprojResolveAssemblyReference.cache
+C:\Temp\PCS-81\2 семетр\PR05\PR05\obj\Debug\PR05.Form1.resources
+C:\Temp\PCS-81\2 семетр\PR05\PR05\obj\Debug\PR05.Properties.Resources.resources
+C:\Temp\PCS-81\2 семетр\PR05\PR05\obj\Debug\PR05.csproj.GenerateResource.Cache
+C:\Temp\PCS-81\2 семетр\PR05\PR05\obj\Debug\PR05.exe
+C:\Temp\PCS-81\2 семетр\PR05\PR05\obj\Debug\PR05.pdb
